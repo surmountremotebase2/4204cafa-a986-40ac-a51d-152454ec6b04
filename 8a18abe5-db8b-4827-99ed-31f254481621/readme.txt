@@ -1,1 +1,1 @@
-type code here
+This strategy is so good
